@@ -1,3 +1,7 @@
-ナザール・ミサンガ Webサイト
-Google Search Console 所有権確認用メタタグを追加した版です。
-公開URL: https://withyou-nazaar-misanga.vercel.app/
+ナザール・ミサンガ ホームページ
+
+index.html：ホームページ本体
+robots.txt：検索エンジン向け案内
+sitemap.xml：Google等にページ構成を伝えるサイトマップ
+
+公開URL：https://nazaar-misanga.vercel.app/
